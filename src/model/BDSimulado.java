@@ -29,8 +29,7 @@ public class BDSimulado {
 		public ArrayList<DocumentReaderM> getMedalhas(){
 			return this.drm;
 	}
-		public void insereUsuario(Usuario usuario) {
-			this.usuarios.add(usuario);
+		
 		
 	}
 	
